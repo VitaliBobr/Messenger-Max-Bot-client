@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "5slzsQcxhqg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vitaliy\\RiderProjects\\ArtHuntMarketFrontEnd\\MaxBot\\MaxBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vitaliy\\.nuget\\packages\\dusharp\\0.7.2\\dusharp.0.7.2.nupkg.sha512",
+    "C:\\Users\\Vitaliy\\.nuget\\packages\\dusharp.generator\\1.1.1\\dusharp.generator.1.1.1.nupkg.sha512",
+    "C:\\Users\\Vitaliy\\.nuget\\packages\\dusharp.json\\0.7.2\\dusharp.json.0.7.2.nupkg.sha512",
+    "C:\\Users\\Vitaliy\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\Vitaliy\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\Vitaliy\\.nuget\\packages\\refit\\10.0.1\\refit.10.0.1.nupkg.sha512",
+    "C:\\Users\\Vitaliy\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Vitaliy\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Vitaliy\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

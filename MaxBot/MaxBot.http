@@ -1,0 +1,6 @@
+@MaxBot_HostAddress = http://localhost:5138
+
+GET {{MaxBot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
